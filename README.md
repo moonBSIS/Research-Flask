@@ -1,2 +1,5 @@
 # Research-Flask
-BSIS 3-A
+WVSU BSIS 3-A
+
+
+Thesis project
